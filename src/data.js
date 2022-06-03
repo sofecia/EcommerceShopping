@@ -91,3 +91,26 @@ export const popularProducts = [
         img: meIMG,
     },
 ];
+
+export const itemCart = [
+    {
+        id: 1,
+        idProduct: 29395234483,
+        product: "SNACK LV LM-SHOES",
+        size: 40,
+        color:"black",
+        price: 30,
+        nota: "$",
+        length: 2,
+    },
+    {
+        id: 2,
+        idProduct: 13565298763,
+        product: " GUCCI LM-SHOES",
+        size: 30,
+        color:"red",
+        price: 60,
+        nota: "$",
+        length: 9,
+    },
+];
